@@ -174,5 +174,5 @@ Olá, eu me chamo **Camila**, mas pode me chamar de Miih. Tenho 18 anos, sou est
       align="left" 
       alt="GitHub Stats" 
       style="height:200px;width:305px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miihsk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miihsk&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9"
   />
