@@ -1,4 +1,4 @@
-# 🐧 Camila Rodrigues
+# 🦖 Camila Rodrigues
 
 <br>
 
@@ -22,7 +22,7 @@ Olá, eu me chamo **Camila**, mas pode me chamar de Miih. Tenho 18 anos, sou est
 
 ---
 
-### 🦇 Linguagens
+### 🐊 Linguagens
 
 <img 
     align="left" 
@@ -82,7 +82,7 @@ Olá, eu me chamo **Camila**, mas pode me chamar de Miih. Tenho 18 anos, sou est
 <br/>
 
 
-### 🦇 Frameworks
+### 🐊 Frameworks
 
 <img
     align="left" 
@@ -115,7 +115,7 @@ Olá, eu me chamo **Camila**, mas pode me chamar de Miih. Tenho 18 anos, sou est
 <br>
 
 
-### 🦇 Banco de Dados
+### 🐊 Banco de Dados
 
 <img 
     align="left" 
@@ -136,7 +136,7 @@ Olá, eu me chamo **Camila**, mas pode me chamar de Miih. Tenho 18 anos, sou est
 <br>
 <br>
 
-### 🦇 Sistemas Operacionais
+### 🐊 Sistemas Operacionais
 
 <img 
     align="left" 
@@ -161,7 +161,7 @@ Olá, eu me chamo **Camila**, mas pode me chamar de Miih. Tenho 18 anos, sou est
 
 ---
 
-### 🦇 Estatísticas
+### 🐊 Estatísticas
 <br>
 
   <img 
